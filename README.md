@@ -7,11 +7,11 @@
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](YOUR_LINKEDIN)
 ### 🌐 Socials:
 
 [<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="Email" width="40" height="40" style="margin-right: 20px;">](mailto:er.harivignesh@gmail.com)
+[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="Instagram" width="40" height="40" style="margin-right: 20px;">](https://www.instagram.com/hash.d29/)
+[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 20px;">](www.linkedin.com/in/harivignesh29)
 
 ---
 
