@@ -9,7 +9,9 @@
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+### 🌐 Socials:
+
+[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="Email" width="40" height="40" style="margin-right: 20px;">](mailto:er.harivignesh@gmail.com)
 
 ---
 
