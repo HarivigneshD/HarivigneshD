@@ -1,4 +1,4 @@
-# Hi 👋, Harivignesh D,</h2>
+# Hi 👋, I'm Harivignesh D,</h2>
 
   <h4>I am an Engineer at Capgemini Engineering with a strong focus on Python automation and data handling. I have a background in Biotechnology, which gives me a unique analytical and scientific approach to problem-solving. My interests lie in Data Science, including data analysis, preprocessing, and visualization. I continuously work on improving my skills in Python, SQL, and modern data tools, and I am also a video editor with experience in creative content production.
 
