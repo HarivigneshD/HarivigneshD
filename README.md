@@ -13,7 +13,7 @@
 
 ### Programming languages
 
-  <div style="display: flex; flex-direction: row; align-items: center;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40" style="margin-right: 20px;" />
     <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40" style="margin-right: 20px;" />
     <img src="https://skillicons.dev/icons?i=r" alt="R" width="40" height="40" style="margin-right: 20px;" />
